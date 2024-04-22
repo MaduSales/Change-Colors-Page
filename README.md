@@ -8,7 +8,7 @@ Projeto construído durante o curso PROPROFISSÃO do Instituto PROA
 
 ## Acesso
 
-![Clique aqui para acessar! :)](hhttps://madusales.github.io/Change-Colors-Page/)
+[Clique aqui para acessar! :)](hhttps://madusales.github.io/Change-Colors-Page/)
 
 ## Tecnologias
 - HTML
