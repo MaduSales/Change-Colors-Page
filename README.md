@@ -1,7 +1,7 @@
 # Change-Colors-Page
 
 
-1[Preview](https://github.com/MaduSales/Change-Colors-Page/assets/166547195/92367d49-4c7a-4f55-92da-a23f9b81641e)
+![Preview](https://github.com/MaduSales/Change-Colors-Page/assets/166547195/92367d49-4c7a-4f55-92da-a23f9b81641e)
 
 
 
