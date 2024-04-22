@@ -1,5 +1,9 @@
 # Change-Colors-Page
-![Preview](https://github.com/MaduSales/Change-Colors-Page/assets/166547195/62b509ed-8d59-4a09-8103-edfda57dec33)
+
+
+1[Preview](https://github.com/MaduSales/Change-Colors-Page/assets/166547195/92367d49-4c7a-4f55-92da-a23f9b81641e)
+
+
 
 Projeto com HTML e CSS de uma página que muda de cores ao clicar no botão
 
@@ -8,7 +12,7 @@ Projeto construído durante o curso PROPROFISSÃO do Instituto PROA
 
 ## Acesso
 
-[Clique aqui para acessar! :)](hhttps://madusales.github.io/Change-Colors-Page/)
+[Clique aqui para acessar! :)](https://madusales.github.io/Change-Colors-Page/)
 
 ## Tecnologias
 - HTML
